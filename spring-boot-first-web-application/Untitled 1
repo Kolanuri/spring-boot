@@ -1,0 +1,9 @@
+
+
+Dispatcher Servlet
+/login =>"login"
+"login"=>src/main/webapp/WEB-INF/jsp/login.jsp
+searech for a view named "login"
+
+
+/login=>LoginController
